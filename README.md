@@ -49,7 +49,7 @@ A clean, beginner-friendly SQL mini‑project that simulates a simple **Library 
 
 ```
 library-management-sql/
-├── data.sql    # Schema + sample data
+├── data.sql                  # Schema + sample data
 ├── README.md                 # Documentation (you're here!)
 └── LICENSE                   # MIT License
 ```

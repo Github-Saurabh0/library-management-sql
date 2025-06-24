@@ -17,4 +17,4 @@ A beginner-friendly SQL project built for MySQL. This includes schema definition
 3. Use `queries.sql` to practice fetching and analyzing data.
 
 ## License
-MIT
+MIT"# library-management-sql" 
